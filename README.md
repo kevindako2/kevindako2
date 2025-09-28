@@ -1,72 +1,44 @@
-# Hi, I’m Kenneth
-
+# Hi, I’m Kevin 🙃
 ✨ Welcome to my GitHub!
-I’m a passionate developer and Epitech student, always curious, always building, and always learning 📚.
-My main interests revolve around Artificial Intelligence 🤖, Cybersecurity 🔐, and the never-ending adventure of solving problems through code ⚡.
 
-🧑‍💻 About Me
+# About Me
+I’m a passionate developer and Epitech student, driven by curiosity and a love for technology.
+My main interests are Artificial Intelligence 🤖 and Cybersecurity 🔐, but I’ve also gained strong experience in system programming, web development (React, Next.js, Sanity), and algorithm design.
+🌍 Fluent in English & French, I enjoy collaborating and sharing knowledge.
+📚 Always learning, always building — because growth never stops.
+⚡ Challenges motivate me: whether it’s a low-level tool, a web app, or a game project, I put energy and passion into every line of code.
 
-🎓 Student at Epitech — studying computer science with a strong focus on system programming, algorithms, and web technologies.
-🌍 Languages: English & French.
-🎮 Passion for game development and interactive systems.
-🚀 Always exploring new fields, from low-level programming to full-stack web development, from algorithms to AI.
-💻 Tech Stack & Skills
-🛠️ Programming Languages
-C / C++ → System programming, memory management, algorithm design (sorting, pathfinding, optimization).
-Python 🐍 → Automation, problem solving, and first steps into AI & data science.
-JavaScript / TypeScript → Web applications, frontend & backend.
-🌐 Web Development
-Frontend: React ⚛️, Next.js 🌐
-Backend: Symfony 🏗️, REST APIs
-Full-stack projects: Combining system logic with web technologies to build efficient apps.
-⚙️ System Programming
+# Tech Stack & Skills
+# Programming Languages
+I code in :
+- C/C++ → system programming, algorithms (sorting, pathfinding, you name it!) ⚙️
+- JavaScript/TypeScript → full-stack vibes with React ⚛️ & Next.js 🌐
+- Python 🐍 → automation, AI explorations & problem-solving
 
-Advanced experience in low-level programming with C/C++.
+# 🌐 Web Development
+- Frontend: React ⚛️, Next.js 🌐
+- CMS & Data: Sanity 📊 (headless content management)
+-Full-stack projects: Combining system logic with web technologies to build efficient apps.
 
-Process management, memory handling, file parsing.
+# ⚙️ System Programming
+- Advanced experience in low-level programming with C/C++.
+- Process management, memory handling, file parsing.
+- Worked on algorithm-heavy projects (sorting, pathfinding, logical programming).
 
-Worked on algorithm-heavy projects (sorting, pathfinding, logical programming).
+# 🎮 Game Development
+- Building gameplay logic & systems in Csfml & Sfml (C and C++ frameworks).
+- Experimenting with C++ and algorithms applied to game mechanics.
 
-🎮 Game Development
+# 🤖 AI & 🔐 Cybersecurity (Current Focus)
+-Deep interest in Artificial Intelligence: from algorithms to applied projects.
+-Exploring cybersecurity concepts, from secure coding practices to system vulnerabilities.
 
-Building gameplay logic & systems.
-Experimenting with C++ and algorithms applied to game mechanics.
-🤖 AI & 🔐 Cybersecurity (Current Focus)
-Deep interest in Artificial Intelligence: from algorithms to applied projects.
-Exploring cybersecurity concepts, from secure coding practices to system vulnerabilities.
+#🚀 Projects & Experience
 
-🚀 Projects & Experience
 
-🔹 System Programming:
-
-Process handling, parsing Linux /proc files.
-Implemented sorting algorithms (Radix sort, etc.) and pathfinding algorithms.
-
-🔹 Web Development:
-
-Built web apps using React + Next.js (modern frontend) and Symfony (backend).
-Worked with REST APIs, UI/UX logic, and responsive layouts.
-
-🔹 Algorithmic Projects:
-
-Sorting algorithms (radix sort, custom comparator-based sorting).
-Pathfinding (graph theory, shortest path algorithms).
-Other logical/optimization algorithms.
-
-🔹 Games & Simulations:
-
-Applied system logic & algorithm design to interactive projects.
-Built small game systems as side projects 🎮.
-
-🌟 What I’m Looking For
-Opportunities to contribute to open-source projects 👐.
-Collaborations in AI, cybersecurity, or system-level programming.
-Learning and exchanging with passionate developers from around the world 🌍.
-
-📫 Let’s Connect
+#📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
-💼 LinkedIn / Portfolio (soon 👀)
-📂 Explore my repos — I try to make each project a piece of my learning journey.
+💼 LinkedIn / Portfolio (soon )
 
 ⚡ Fun Fact
 
@@ -74,4 +46,16 @@ If it challenges me, I’m in.
 If it mixes logic + creativity, I’ll probably spend hours on it without noticing -_- ✨
 
 👉 Thanks for visiting my GitHub! Feel free to explore my projects, open issues, or just say hi. 👋## Hi there 👋
+## 🚀 Featured Projects
+
+- [🔐 CyberSec Tool](https://github.com/tonpseudo/cybersec-tool) – Small security scanner built in Python.  
+- [🤖 AI Pathfinding](https://github.com/tonpseudo/ai-pathfinding) – Pathfinding algorithms in C++.  
+- [🌐 My Web Portfolio](https://github.com/tonpseudo/web-portfolio) – React + Next.js project.  
+- [⚙️ System Monitor](https://github.com/tonpseudo/system-monitor) – Linux system monitoring in C.  
+
+
+## 📊 GitHub Stats
+
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
 
