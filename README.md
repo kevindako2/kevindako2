@@ -1,7 +1,7 @@
 # Hi, I’m Kevin 🙃
 ✨ Welcome to my GitHub!
 
-## About Me
+### About Me
 I’m a passionate developer and Epitech student, driven by curiosity and a love for technology.
 My main interests are Artificial Intelligence 🤖 and Cybersecurity 🔐, but I’ve also gained strong experience in system programming, web development (React, Next.js, Sanity), and algorithm design.
 🌍 Fluent in English & French, I enjoy collaborating and sharing knowledge.
@@ -20,39 +20,30 @@ I code in :
 - CMS & Data: Sanity 📊 (headless content management)
 -Full-stack projects: Combining system logic with web technologies to build efficient apps.
 
-# ⚙️ System Programming
+### ⚙️ System Programming
 - Advanced experience in low-level programming with C/C++.
 - Process management, memory handling, file parsing.
 - Worked on algorithm-heavy projects (sorting, pathfinding, logical programming).
 
-# 🎮 Game Development
+### 🎮 Game Development
 - Building gameplay logic & systems in Csfml & Sfml (C and C++ frameworks).
 - Experimenting with C++ and algorithms applied to game mechanics.
 
-# 🤖 AI & 🔐 Cybersecurity (Current Focus)
+### 🤖 AI & 🔐 Cybersecurity (Current Focus)
 -Deep interest in Artificial Intelligence: from algorithms to applied projects.
 -Exploring cybersecurity concepts, from secure coding practices to system vulnerabilities.
 
-#🚀 Projects & Experience
-
-
-#📫 Let’s Connect
-✉️ Email: kevindako3@gmail.com
-💼 LinkedIn / Portfolio (soon )
-
-⚡ Fun Fact
-
-If it challenges me, I’m in.
-If it mixes logic + creativity, I’ll probably spend hours on it without noticing -_- ✨
-
-👉 Thanks for visiting my GitHub! Feel free to explore my projects, open issues, or just say hi. 👋## Hi there 👋
-## 🚀 Featured Projects
-
+# 🚀 Featured Projects
 - [🔐 CyberSec Tool](https://github.com/tonpseudo/cybersec-tool) – Small security scanner built in Python.  
 - [🤖 AI Pathfinding](https://github.com/tonpseudo/ai-pathfinding) – Pathfinding algorithms in C++.  
 - [🌐 My Web Portfolio](https://github.com/tonpseudo/web-portfolio) – React + Next.js project.  
 - [⚙️ System Monitor](https://github.com/tonpseudo/system-monitor) – Linux system monitoring in C.  
 
+#📫 Let’s Connect
+✉️ Email: kevindako3@gmail.com
+💼 LinkedIn / Portfolio (soon )
+
+👉 Thanks for visiting my GitHub! Feel free to explore my projects, open issues.
 
 ## 📊 GitHub Stats
 
