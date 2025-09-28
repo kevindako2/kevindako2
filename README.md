@@ -9,7 +9,7 @@ My main interests are Artificial Intelligence 🤖 and Cybersecurity 🔐, but I
 ⚡ Challenges motivate me: whether it’s a low-level tool, a web app, or a game project, I put energy and passion into every line of code.
 
 # Tech Stack & Skills
-### Programming Languages
+### 🛠️ Programming Languages
 I code in :
 - C/C++ → system programming, algorithms (sorting, pathfinding, you name it!) ⚙️
 - JavaScript/TypeScript → full-stack vibes with React ⚛️ & Next.js 🌐
@@ -30,8 +30,15 @@ I code in :
 - Experimenting with C++ and algorithms applied to game mechanics.
 
 ### 🤖 AI & 🔐 Cybersecurity (Current Focus)
--Deep interest in Artificial Intelligence: from algorithms to applied projects.
--Exploring cybersecurity concepts, from secure coding practices to system vulnerabilities.
+#### Artificial Intelligence (AI) 🤖
+- Focused on practical AI applications, especially task automation and building intelligent bots.
+- Using AI to optimize workflows, simplify repetitive tasks, and improve efficiency in projects.
+- Experimenting with Python scripts, AI APIs, and automation frameworks to bring ideas to life.
+#### Cybersecurity 🔐
+- Continuously learning secure coding practices and identifying system vulnerabilities.
+- Exploring network security, penetration testing (pentesting), and defensive strategies.
+- Aiming to develop advanced cybersecurity skills, including testing, securing, and auditing applications and networks.
+- Staying up-to-date with the latest security challenges and tools.
 
 # 🚀 Featured Projects
 - [🔐 CyberSec Tool](https://github.com/tonpseudo/cybersec-tool) – Small security scanner built in Python.  
@@ -42,11 +49,9 @@ I code in :
 #📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
 💼 LinkedIn / Portfolio (soon )
-
-👉 Thanks for visiting my GitHub! Feel free to explore my projects, open issues.
+Thanks :) for visiting my GitHub! Feel free to explore my projects, open issues.
 
 ## 📊 GitHub Stats
-
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
 
