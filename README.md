@@ -42,11 +42,10 @@ I code in :
 
 # 🚀 Featured Projects
 For now the majority of my project are private because of Epitehc organisation. But i have my own Open project bellow 
-- [🌐 My Web Portfolio](https://my-weeb-portofolio-is-comming.soon)   
-
+  
 # 📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
-
+- [🌐 My Web Portfolio](https://my-weeb-portofolio-is-comming.soon) (Comming soon)
 💼 LinkedIn / Portfolio (soon )
 
 Thanks :) for visiting my GitHub! Feel free to explore my projects, open issues.
