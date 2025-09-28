@@ -41,10 +41,8 @@ I code in :
 - Staying up-to-date with the latest security challenges and tools.
 
 # 🚀 Featured Projects
-- [🔐 CyberSec Tool](https://github.com/tonpseudo/cybersec-tool) – Small security scanner built in Python.  
-- [🤖 AI Pathfinding](https://github.com/tonpseudo/ai-pathfinding) – Pathfinding algorithms in C++.  
-- [🌐 My Web Portfolio](https://github.com/tonpseudo/web-portfolio) – React + Next.js project.  
-- [⚙️ System Monitor](https://github.com/tonpseudo/system-monitor) – Linux system monitoring in C.  
+For now the majority of my project are private because of Epitehc organisation. But i have my own Open project bellow 
+- [🌐 My Web Portfolio](https://my-weeb-portofolio-is-comming.soon)   
 
 # 📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
@@ -52,8 +50,4 @@ I code in :
 💼 LinkedIn / Portfolio (soon )
 
 Thanks :) for visiting my GitHub! Feel free to explore my projects, open issues.
-
-## 📊 GitHub Stats
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
 
