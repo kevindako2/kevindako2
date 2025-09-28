@@ -46,7 +46,7 @@ I code in :
 - [🌐 My Web Portfolio](https://github.com/tonpseudo/web-portfolio) – React + Next.js project.  
 - [⚙️ System Monitor](https://github.com/tonpseudo/system-monitor) – Linux system monitoring in C.  
 
-#📫 Let’s Connect
+# 📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
 💼 LinkedIn / Portfolio (soon )
 Thanks :) for visiting my GitHub! Feel free to explore my projects, open issues.
