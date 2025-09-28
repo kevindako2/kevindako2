@@ -41,7 +41,7 @@ I code in :
 - Staying up-to-date with the latest security challenges and tools.
 
 # 🚀 Featured Projects
-For now the majority of my project are private because of Epitehc organisation. But i have my own Open project bellow 
+For now the majority of my project are private . But i have my own Open project bellow 
   
 # 📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
