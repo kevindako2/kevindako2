@@ -48,7 +48,9 @@ I code in :
 
 # 📫 Let’s Connect
 ✉️ Email: kevindako3@gmail.com
+
 💼 LinkedIn / Portfolio (soon )
+
 Thanks :) for visiting my GitHub! Feel free to explore my projects, open issues.
 
 ## 📊 GitHub Stats
