@@ -9,7 +9,7 @@ Always learning, always building — because growth never stops.
 ⚡ Challenges motivate me: whether it’s a low-level tool, a web app, or a game project, I put energy and passion into every line of code.
 
 # Tech Stack & Skills
-### 🛠️ Programming Languages
+### 🛠️ Tech Tools
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
