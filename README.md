@@ -5,7 +5,7 @@
 I’m a passionate developer and Epitech student, driven by curiosity and a love for technology.
 My main interests are Artificial Intelligence 🤖 and Cybersecurity 🔐, but I’ve also gained strong experience in system programming, web development (React, Next.js, Sanity), and algorithm design.
 🌍 Fluent in English & French, I enjoy collaborating and sharing knowledge.
-📚 Always learning, always building — because growth never stops.
+Always learning, always building — because growth never stops.
 ⚡ Challenges motivate me: whether it’s a low-level tool, a web app, or a game project, I put energy and passion into every line of code.
 
 # Tech Stack & Skills
