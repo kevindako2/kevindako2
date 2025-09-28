@@ -1,4 +1,4 @@
-#👋 Hi, I’m Kenneth
+# Hi, I’m Kenneth
 
 ✨ Welcome to my GitHub!
 I’m a passionate developer and Epitech student, always curious, always building, and always learning 📚.
