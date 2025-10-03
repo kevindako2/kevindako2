@@ -42,10 +42,6 @@ Always learning, always building — because growth never stops.
 - Process management, memory handling, file parsing.
 - Worked on algorithm-heavy projects (sorting, pathfinding, logical programming).
 
-### 🎮 Game Development
-- Building gameplay logic & systems in Csfml & Sfml (C and C++ frameworks).
-- Experimenting with C++ and algorithms applied to game mechanics.
-
 ### 🤖 AI & 🔐 Cybersecurity (Current Focus)
 #### Artificial Intelligence (AI) 🤖
 - Focused on practical AI applications, especially task automation and building intelligent bots.
