@@ -55,8 +55,8 @@ Always learning, always building — because growth never stops.
 
 # 🚀 Featured Projects
 ## Some webbsite : 
-Weeb-service : weeb-service.vercel.app
-Young-distracted : young-distracted-project.vercel.app
+-Weeb-service: weeb-service.vercel.app
+-Young-distracted: young-distracted-project.vercel.app
 
 ## Can code on : 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
