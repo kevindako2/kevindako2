@@ -54,7 +54,9 @@ Always learning, always building — because growth never stops.
 - Staying up-to-date with the latest security challenges and tools.
 
 # 🚀 Featured Projects
-For now the majority of my project are private . But i have my own Open project bellow 
+## Some webbsite : 
+Weeb-service : weeb-service.vercel.app
+Young-distracted : young-distracted-project.vercel.app
 
 ## Can code on : 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
